@@ -1,7 +1,7 @@
 
 # What is GNU+Linux?
 an open-source operating system modelled on UNIX.
-![GNU Linux](https://bit.ly/3skeP1t)
+![GNU Linux](https://bit.ly/3doflHP)
 
 # 3 Reasons to use GNU+Linux:
 * Reason 1 GNU+Linux is a stable and free operating system.
