@@ -8,4 +8,5 @@
 ![answer3](../imgs/lab7q3.1.png)
 ![answer3](../imgs/lab7q3.2.png)
 **Question4**
-![answer1](../imgs/lab7q4.1.png)
+![answer4](../imgs/lab7q4.1.png)
+![answer4](../imgs/lab7q4.2.png)
