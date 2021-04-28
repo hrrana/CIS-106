@@ -1,0 +1,11 @@
+**Question1**
+![answer1](../imgs/lab7q1.1.png)
+![answer1](../imgs/lab7q1.2.png)
+**Question2**
+![answer2](../imgs/lab7q2.1.png)
+![answer2](../imgs/lab7q2.2.png)
+**Question3**
+![answer3](../imgs/lab7q3.1.png)
+![answer3](../imgs/lab7q3.2.png)
+**Question4**
+![answer1](../imgs/lab7q4.1.png)
